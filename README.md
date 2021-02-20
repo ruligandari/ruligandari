@@ -1,12 +1,6 @@
 # Hi there 👋 , I'm Ruli!
 Currently I am open to any opportunity especially in IT as a Mobile Developer. 
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/ruligandari" />
-</p>
-
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
